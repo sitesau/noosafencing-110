@@ -1,0 +1,22 @@
+{
+  "wheel_id": 694,
+  "structure": "umbrella",
+  "slug": "noosafencing-110",
+  "project": "fencing-contractors-noosa-warranty-68d405b136b6dfb9fd53f77879b0",
+  "parent_t1_ref": "noosafencing-154",
+  "node_role": "feeder",
+  "money_target": "noosafencing.com.au",
+  "primary_kw": "fencing contractors noosa warranty",
+  "intended_url": "https://sitesau.github.io/noosafencing-110/",
+  "tier": "T2",
+  "writeback_nonce": "1704697e9b0ff14f",
+  "links": [
+    {
+      "target_url": "http://fencing-contractors-noosa-maintenance-f768798015d7f7206a958f966.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Fencing Contractors Noosa Maintenance: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
